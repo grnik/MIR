@@ -1,0 +1,1 @@
+(convert(char(2),[TimeH]) + ':' + convert(char(2),[TimeM]) + ':' + convert(char(2),[TimeS]))

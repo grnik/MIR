@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2009.04.13 07:36:42.564.cpp,C:\Documents and Settings\Grigoryev\My Documents\Borland Studio Projects\Unit1.cpp=C:\WorkGroup\Kolay\MIR_Proect\Main.cpp</Transaction>
+    <Transaction>2009.04.13 07:36:42.580.h,C:\Documents and Settings\Grigoryev\My Documents\Borland Studio Projects\Unit1.h=C:\WorkGroup\Kolay\MIR_Proect\Main.h</Transaction>
+    <Transaction>2009.04.13 07:36:42.580.dfm,C:\Documents and Settings\Grigoryev\My Documents\Borland Studio Projects\Unit1.dfm=C:\WorkGroup\Kolay\MIR_Proect\Main.dfm</Transaction>
+    <Transaction>2009.04.13 07:37:08.876.cpp,C:\WorkGroup\Kolay\MIR_Proect\Main.cpp=C:\WorkGroup\Kolay\MIR_Proect\Branches\Main.cpp</Transaction>
+    <Transaction>2009.04.13 07:37:08.876.h,C:\WorkGroup\Kolay\MIR_Proect\Main.h=C:\WorkGroup\Kolay\MIR_Proect\Branches\Main.h</Transaction>
+    <Transaction>2009.04.13 07:37:08.876.dfm,C:\WorkGroup\Kolay\MIR_Proect\Main.dfm=C:\WorkGroup\Kolay\MIR_Proect\Branches\Main.dfm</Transaction>
+    <Transaction>2009.04.13 07:37:43.907.bdsproj,C:\Documents and Settings\Grigoryev\My Documents\Borland Studio Projects\Project1.bdsproj=C:\WorkGroup\Kolay\MIR_Proect\Branches\Branches.bdsproj</Transaction>
+    <Transaction>2009.04.13 08:06:39.114.cpp,C:\WorkGroup\Kolay\MIR_Proect\Branches\Unit1.cpp=C:\WorkGroup\Kolay\MIR_Proect\Branches\Data.cpp</Transaction>
+    <Transaction>2009.04.13 08:06:39.114.h,C:\WorkGroup\Kolay\MIR_Proect\Branches\Unit1.h=C:\WorkGroup\Kolay\MIR_Proect\Branches\Data.h</Transaction>
+    <Transaction>2009.04.13 08:06:39.114.dfm,C:\WorkGroup\Kolay\MIR_Proect\Branches\Unit1.dfm=C:\WorkGroup\Kolay\MIR_Proect\Branches\Data.dfm</Transaction>
+    <Transaction>2009.04.13 08:46:19.632.cpp,C:\WorkGroup\Kolay\MIR_Proect\Branches\Unit2.cpp=C:\WorkGroup\Kolay\MIR_Proect\Branches\Reporter.cpp</Transaction>
+    <Transaction>2009.04.13 08:46:19.632.h,C:\WorkGroup\Kolay\MIR_Proect\Branches\Unit2.h=C:\WorkGroup\Kolay\MIR_Proect\Branches\Reporter.h</Transaction>
+    <Transaction>2009.04.13 08:46:19.632.dfm,C:\WorkGroup\Kolay\MIR_Proect\Branches\Unit2.dfm=C:\WorkGroup\Kolay\MIR_Proect\Branches\Reporter.dfm</Transaction>
+    <Transaction>2009.04.13 08:47:23.132.cpp,C:\WorkGroup\Kolay\MIR_Proect\Branches\Unit3.cpp=C:\WorkGroup\Kolay\MIR_Proect\Branches\Operator.cpp</Transaction>
+    <Transaction>2009.04.13 08:47:23.132.h,C:\WorkGroup\Kolay\MIR_Proect\Branches\Unit3.h=C:\WorkGroup\Kolay\MIR_Proect\Branches\Operator.h</Transaction>
+    <Transaction>2009.04.13 08:47:23.132.dfm,C:\WorkGroup\Kolay\MIR_Proect\Branches\Unit3.dfm=C:\WorkGroup\Kolay\MIR_Proect\Branches\Operator.dfm</Transaction>
+    <Transaction>2009.04.13 08:48:44.976.cpp,C:\WorkGroup\Kolay\MIR_Proect\Branches\Unit4.cpp=C:\WorkGroup\Kolay\MIR_Proect\Branches\Branch.cpp</Transaction>
+    <Transaction>2009.04.13 08:48:44.976.h,C:\WorkGroup\Kolay\MIR_Proect\Branches\Unit4.h=C:\WorkGroup\Kolay\MIR_Proect\Branches\Branch.h</Transaction>
+    <Transaction>2009.04.13 08:48:44.976.dfm,C:\WorkGroup\Kolay\MIR_Proect\Branches\Unit4.dfm=C:\WorkGroup\Kolay\MIR_Proect\Branches\Branch.dfm</Transaction>
+    <Transaction>2009.04.16 14:09:30.029.cpp,C:\WorkGroup\Kolay\MIR_Proect\Branches\Unit1.cpp=C:\WorkGroup\Kolay\MIR_Proect\Branches\PrintReport.cpp</Transaction>
+    <Transaction>2009.04.16 14:09:30.045.h,C:\WorkGroup\Kolay\MIR_Proect\Branches\Unit1.h=C:\WorkGroup\Kolay\MIR_Proect\Branches\PrintReport.h</Transaction>
+    <Transaction>2009.04.16 14:09:30.045.dfm,C:\WorkGroup\Kolay\MIR_Proect\Branches\Unit1.dfm=C:\WorkGroup\Kolay\MIR_Proect\Branches\PrintReport.dfm</Transaction>
+    <Transaction>2009.05.05 11:09:13.684.cpp,C:\WorkGroup\Kolay\MIR_Proect\Branches\Branch.cpp=C:\WorkGroup\Kolay\MIR_Proect\Branches\SubjectType.cpp</Transaction>
+    <Transaction>2009.05.05 11:09:13.684.h,C:\WorkGroup\Kolay\MIR_Proect\Branches\Branch.h=C:\WorkGroup\Kolay\MIR_Proect\Branches\SubjectType.h</Transaction>
+    <Transaction>2009.05.05 11:09:13.684.dfm,C:\WorkGroup\Kolay\MIR_Proect\Branches\Branch.dfm=C:\WorkGroup\Kolay\MIR_Proect\Branches\SubjectType.dfm</Transaction>
+    <Transaction>2009.07.13 15:19:36.096.cpp,C:\WorkGroup\Kolay\MIR_Proect\Branches\Unit1.cpp=C:\WorkGroup\Kolay\MIR_Proect\Branches\Subject.cpp</Transaction>
+    <Transaction>2009.07.13 15:19:36.096.h,C:\WorkGroup\Kolay\MIR_Proect\Branches\Unit1.h=C:\WorkGroup\Kolay\MIR_Proect\Branches\Subject.h</Transaction>
+    <Transaction>2009.07.13 15:19:36.096.dfm,C:\WorkGroup\Kolay\MIR_Proect\Branches\Unit1.dfm=C:\WorkGroup\Kolay\MIR_Proect\Branches\Subject.dfm</Transaction>
+    <Transaction>2009.07.21 11:28:57.707.cpp,C:\WorkGroup\Kolay\MIR_Proect\Branches\Unit1.cpp=C:\WorkGroup\Kolay\MIR_Proect\Branches\PrintExcel.cpp</Transaction>
+    <Transaction>2009.07.21 11:28:57.707.h,C:\WorkGroup\Kolay\MIR_Proect\Branches\Unit1.h=C:\WorkGroup\Kolay\MIR_Proect\Branches\PrintExcel.h</Transaction>
+    <Transaction>2009.07.21 11:28:57.707.dfm,C:\WorkGroup\Kolay\MIR_Proect\Branches\Unit1.dfm=C:\WorkGroup\Kolay\MIR_Proect\Branches\PrintExcel.dfm</Transaction>
+    <Transaction>2009.07.21 14:41:38.442.cpp,C:\WorkGroup\Kolay\MIR_Proect\Branches\PrintExcel.cpp=</Transaction>
+    <Transaction>2009.07.21 14:41:38.442.dfm,C:\WorkGroup\Kolay\MIR_Proect\Branches\PrintExcel.dfm=</Transaction>
+    <Transaction>2009.07.22 11:15:17.928.cpp,C:\WorkGroup\Kolay\MIR_Proect\Branches\PrintExcel.cpp=</Transaction>
+    <Transaction>2009.07.22 11:15:17.928.dfm,C:\WorkGroup\Kolay\MIR_Proect\Branches\PrintExcel.dfm=</Transaction>
+    <Transaction>2009.09.10 16:48:08.779.cpp,C:\WorkGroup\Kolay\MIR_Proect\Branches\Unit1.cpp=C:\WorkGroup\Kolay\MIR_Proect\Branches\SubjectIns.cpp</Transaction>
+    <Transaction>2009.09.10 16:48:08.779.h,C:\WorkGroup\Kolay\MIR_Proect\Branches\Unit1.h=C:\WorkGroup\Kolay\MIR_Proect\Branches\SubjectIns.h</Transaction>
+    <Transaction>2009.09.10 16:48:08.779.dfm,C:\WorkGroup\Kolay\MIR_Proect\Branches\Unit1.dfm=C:\WorkGroup\Kolay\MIR_Proect\Branches\SubjectIns.dfm</Transaction>
+    <Transaction>2009.09.10 17:39:47.622.cpp,C:\WorkGroup\Kolay\MIR_Proect\Branches\SubjectIns.cpp=</Transaction>
+    <Transaction>2009.09.10 17:39:47.622.dfm,C:\WorkGroup\Kolay\MIR_Proect\Branches\SubjectIns.dfm=</Transaction>
+  </Transactions>
+</BorlandProject>
